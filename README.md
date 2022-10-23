@@ -18,3 +18,8 @@ Modeling of the company's operations is mainly done by people and they can make 
 However experienced ecnomistst and analytics could do something different instead of this. Creating a new model takes weeks. 
 #### Solution
 Let's use machine learning to reduce the error and eliminate the human factor.
+
+### Goals
+### What will be done
+### Sources
+i will use [this](https://www.kaggle.com/datasets/jarbol/oil-gas-predict) dataset
