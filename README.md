@@ -20,6 +20,8 @@ However experienced ecnomistst and analytics could do something different instea
 Let's use machine learning to reduce the error and eliminate the human factor.
 
 ### Goals
+Soon
 ### What will be done
+Soon
 ### Sources
 i will use [this](https://www.kaggle.com/datasets/jarbol/oil-gas-predict) dataset
