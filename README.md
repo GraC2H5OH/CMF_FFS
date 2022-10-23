@@ -24,4 +24,4 @@ Soon
 ### What will be done
 Soon
 ### Sources
-i will use [this](https://www.kaggle.com/datasets/jarbol/oil-gas-predict) dataset
+i will use [this](https://www.kaggle.com/datasets/jarbol/oil-gas-predict) datasets
