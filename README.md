@@ -31,11 +31,11 @@ Soon
 - Interpretation of models results(if possible)
 
 ### Models results
-| Models and methods                           | MAPE | WAPE  | MSE  |R<sup>2</sup><sub>adj</sub>|
-|----------------------------------------------|------|-------|------|--------------|
-| Simple linear regression<br>for each company | 0.59 |0.57   |702373|11.57         |
-|                                              |      |       |      |              |
-|                                              |      |       |      |              |
+| Models and methods                           | MAPE   | WAPE  | MSE   |R<sup>2</sup><sub>adj</sub>|
+|----------------------------------------------|--------|-------|-------|----------------|
+| Simple linear regressions<br>for each company| 0.59   |0.57   |702373 |11.57           |
+|Simple linear regression<br>for each companies|26003508|0.3e+06|4.6e+20|-479824272578422|
+|                                              |        |       |       |                |
 
 
 ### Sources
