@@ -31,9 +31,9 @@ Soon
 - Interpretation of models results(if possible)
 
 ### Models results
-| Models and methods                           | MAPE | WMAPE | MSE  |R<sup>2</sup><sub>adj</sub>|
+| Models and methods                           | MAPE | WAPE  | MSE  |R<sup>2</sup><sub>adj</sub>|
 |----------------------------------------------|------|-------|------|--------------|
-| Simple linear regression<br>for each company | 0.59 |       |702373|              |
+| Simple linear regression<br>for each company | 0.59 |0.57   |702373|11.57         |
 |                                              |      |       |      |              |
 |                                              |      |       |      |              |
 
