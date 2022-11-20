@@ -31,12 +31,14 @@ Soon
 - Interpretation of models results(if possible)
 
 ### Models results
-| Models and methods                                          | MAPE   | WAPE  | MSE   |
-|-------------------------------------------------------------|--------|-------|-------|
-| Simple linear regressions<br>for each company               | 0.74   |0.74   |1835884|
-|Simple linear regression<br>for each companies               |47492190|5.894e+06|4.6e+20|
-|Relaxed Lasso with <br> top 20 features for <br> each company|0.355   |0.35   |5390113|
-|Relaxed Lasso with <br> top 10 features for <br> each company|0.197   |0.19   |68719  |
+| Models and methods                                                          | MAPE   | WAPE    | MSE          |
+|-----------------------------------------------------------------------------|--------|---------|--------------|
+| Simple linear regressions<br>for each company                               | 0.74   |0.74     |1835884       |
+|Simple linear regression<br>for each companies                               |47492190|5.894e+06|4.6e+20       |
+| Simple linear regressions<br>for each company(cross_val)                    | 1131   |1035     |34836483832019|
+|Relaxed Lasso with <br> top 20 features for <br> each company                |0.355   |0.35     |5390113       |
+|Relaxed Lasso with <br> top 10 features for <br> each company                |0.197   |0.19     |68719         |
+|Relaxed Lasso with <br> top 10 features for <br> each company <br>(cross_val)|2929    |2668     |4789580563264654|
 
 
 ### Sources
