@@ -41,5 +41,8 @@ Soon
 |Relaxed Lasso with <br> top 10 features for <br> each company <br>(cross_val)|2929    |2668     |4789580563264654|
 
 
+### Used methods and models description
+soon
+
 ### Sources
 i will use [this](https://www.kaggle.com/datasets/jarbol/oil-gas-predict) datasets
