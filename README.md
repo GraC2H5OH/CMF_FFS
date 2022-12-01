@@ -39,6 +39,7 @@ Soon
 |Relaxed Lasso with <br> top 20 features for <br> each company                |0.355   |0.35     |5390113       |
 |Relaxed Lasso with <br> top 10 features for <br> each company                |0.197   |0.19     |68719         |
 |Relaxed Lasso with <br> top 10 features for <br> each company <br>(cross_val)|0.503   |0.416    |1278153       |
+|Catboost(cross_val)                                                          |0.369   |0.311    |141587        |
 
 
 ### Used methods and models description
